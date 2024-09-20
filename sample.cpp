@@ -36,15 +36,3 @@ int main() {
 
     std::cout << "You got " << correct_count << "/" << total_questions << " (" << std::setprecision(2) << (100.*correct_count/total_questions) << "%) correct.\n";
 }
-/*
-1 + 9 = a
-2 + 8
-3 + 7
-4 + 6
-5 + 5
-6 + 4
-7 + 3
-8 + 2
-9 + 1
-a + 1
-*/
